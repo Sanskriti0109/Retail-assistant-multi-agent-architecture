@@ -34,6 +34,8 @@ Session Management - Cross-channel conversation memory
 Auto-generated API Docs - Interactive Swagger/OpenAPI
 
 ## Tech Stack
+<img width="892" height="362" alt="Screenshot 2026-03-06 142627" src="https://github.com/user-attachments/assets/a43e37af-fb72-442d-8c42-9a559f4cd4b6" />
+
 Framework: FastAPI (Python 3.12)
 
 AI/ML: Sentence Transformers, FAISS, Scikit-learn
@@ -44,6 +46,8 @@ API Documentation: Auto-generated Swagger/OpenAPI
 
 Data: Mock product catalog with real-time inventory
 <img width="1919" height="1079" alt="Screenshot 2026-03-06 142251" src="https://github.com/user-attachments/assets/64d0ef32-a9e8-4b13-ad11-48c3ebba0acf" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-06 142215" src="https://github.com/user-attachments/assets/277ea3f0-b6dc-4a44-913c-4818f46b385f" />
 
 
 ## 🛠️ Installation
@@ -81,4 +85,5 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+
 
