@@ -43,6 +43,8 @@ Session Management: In-memory with UUID sessions
 API Documentation: Auto-generated Swagger/OpenAPI
 
 Data: Mock product catalog with real-time inventory
+<img width="1919" height="1079" alt="Screenshot 2026-03-06 142251" src="https://github.com/user-attachments/assets/64d0ef32-a9e8-4b13-ad11-48c3ebba0acf" />
+
 
 ## 🛠️ Installation
 Prerequisites
@@ -79,3 +81,4 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+
