@@ -34,6 +34,8 @@ Session Management - Cross-channel conversation memory
 Auto-generated API Docs - Interactive Swagger/OpenAPI
 
 ## Tech Stack
+<img width="1024" height="1536" alt="ChatGPT Image May 14, 2026, 04_49_48 PM" src="https://github.com/user-attachments/assets/aa9ae54b-a3c0-4d7e-9340-c47621f34e0c" />
+
 <img width="892" height="362" alt="Screenshot 2026-03-06 142627" src="https://github.com/user-attachments/assets/a43e37af-fb72-442d-8c42-9a559f4cd4b6" />
 
 Framework: FastAPI (Python 3.12)
